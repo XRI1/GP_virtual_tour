@@ -1,0 +1,24 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Media
+
+### Title
+panorama_E8F3E5BA_E226_CF11_41CB_AE52904559E1.label = 1
+panorama_EBC4C1EC_E226_C730_41E9_E7D5041AD538.label = 2
+panorama_EBD8062C_E226_CD31_41A4_3F575EF6ABF6.label = 4
+panorama_EBD80B0E_E226_C4F0_41CA_8005319D9312.label = 6
+panorama_EBD84053_E226_C517_41E2_6BF63C3AF0F9.label = 5
+panorama_EBD84C00_E226_FCF1_41D8_9FE5FE1C2D4C.label = 3
+
+## Action
+
+### URL
+LinkBehaviour_F61CBD02_E269_7CF0_41E4_73CD65580AFC.source = https://www.aarong.com/women/shalwar-kameez-0394cdd0a336558ac9d78fd6fd7bb544/brown-black-printed-and-embroidered-endi-silk-kameez-23e244306002.html
+LinkBehaviour_F7CADF96_E27A_BB10_41E6_CA9BD84A92BB.source = https://www.aarong.com/women/shalwar-kameez-0394cdd0a336558ac9d78fd6fd7bb544/brown-black-printed-and-embroidered-endi-silk-kameez-23e244306002.html
